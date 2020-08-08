@@ -1,16 +1,19 @@
 ### Hi there 👋
 
 <!--
-**AntonBazhan/AntonBazhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi 👋, I'm Tamara Koliada
+A passionate Data Scientist and Open Source contributor
+image
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+tomkaX aws git react java flinks R II nodejs python
+
+👨‍💻 All of my projects are available here
+
+💬 Ask me about anything
+
+📫 How to reach me tomacolyada@gmail.com
+
+tomkaX
+
+https://www.linkedin.com/in/tomakoliada/ https://www.facebook.com/tomkka https://www.instagram.com/tomkamk/ https://twitter.com/T0MKA
